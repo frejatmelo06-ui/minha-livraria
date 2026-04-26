@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+    <meta nome="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Livraria Lobo - Início</title>
+      <link rel="stylesheet" href="style.css">
+        </head>
+      <body>
+        <header>
+          <div class="logo-area">
+            <img src="img/logo.png" alt="Logo do Site" width="50">
+              <h1> Livraria Lobo</h1>
+              </div>
+            <nav>
+              <ul>
+                <li><a href="index.html">Início</a></li>
+                <li><a href="detalhes.html">Conteúdos</a></li>
+                <li><a href="sobre.html">Sobre os livros</a></li>
+                <li>
+                  <a href="loging.html">Admin</a>
+                  <ul>
+                    <li><a href="cadastro.html">Cadastrar Livro</a></li>
+                    <li><a href="cadastro_do_usuario.html">Cadastrar Usuário</a
+                      </li>
+                      </ul>
+                    </li>
+                  </ul>
+                  </nav>
+            </header>
+          <main>
+            <h2>Destaques</h2>
+            <section class="colecao-objetos">
+              <article class="card">
+                <img src="imagem-tema.jpg" alt="Descrição do Tema">
+                  <h3>Livros de Filosofia</h3>
+                  <p>Os melhores clássicos você encontra aqui</p>
+                  <a href="detalhes.html">Ver mais livros</a>
+                  </article>
+                
+                <article class="card">
+                  <img src="imagem-romance.jpg" alt= "romances clássicos">
+                    <h3>Livros de Romance</h3>
+                    <p>Os melhores livros você encontra aqui<p>
+                      <a href="detalhes.html">Ver mais detalhes</a>
+                      </article>
+                      </secticle>
+                    </main>
+                  
+                  <footer>
+                    <p>Desenvolvido por: Lobo<a href="sobre.html"> Saiba mais sobre o autor</a></p>
+                  </footer>
+                  </body>
+                </html>
+              
